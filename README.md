@@ -1,5 +1,5 @@
 # cloudbird
-about cloud ,about  ,about dev-ops
+about cloud ,about  xx,about dev-ops
 
 https://www.cnblogs.com/feiyujun/p/10798500.html
 https://kubernetes.feisky.xyz/setup/cluster/kubeadm
